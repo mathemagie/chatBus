@@ -54,5 +54,5 @@ void loop() {
   
     
   } 
-  delay(1000);  // wait 5 seconds before you do it again
+  delay(100);  // wait 5 seconds before you do it again
 }
